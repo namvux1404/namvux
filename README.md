@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Nam :)<br><br>- 📚 I'm currently a M.Eng student at McGill in Applied AI<br>- 🔭 I'm looking for full-time roles in data science, especially banking and quant<br>- ⚡ In my free time I like to play soccer and  badminton</p>
+<p align="left">I'm Nam :)<br><br>- 📚 I'm currently a M.Eng student at McGill in Applied AI<br>- 🔭 I'm looking for full-time roles in data science, especially banking and quant. I'm also very interested in research topics in Continual Reinforcement Learning :-) <br>- ⚡ In my free time I like to play soccer and  badminton</p>
 
 ###
 
